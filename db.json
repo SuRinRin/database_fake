@@ -1,0 +1,48 @@
+{
+    "sinhVien": [
+      {
+        "msv": "SV001",
+        "name": "Nguyễn Đăng",
+        "email": "azusachan309@gmail.com",
+        "sdt": "0123456789",
+        "dob": "1999-09-09",
+        "sex": "Nam",
+        "hometown": "Hà Nội",
+        "major": "Công nghệ thông tin",
+        "id": "5364"
+      },
+      {
+        "id": "ac78",
+        "msv": 251593,
+        "name": "Nguyễn Đăng",
+        "email": "azusachan307@gmail.com",
+        "sdt": "0936029619",
+        "dob": "2004-07-29T17:00:00.000Z",
+        "sex": "Nam",
+        "hometown": "Hà Nội",
+        "major": "Công Nghệ thông tin"
+      },
+      {
+        "id": "9ba3",
+        "msv": 2737084,
+        "name": "Chu Kim Ngân",
+        "email": "nganck@gmail.com",
+        "sdt": "0973874334",
+        "dob": "2005-03-27T17:00:00.000Z",
+        "sex": "Nam",
+        "hometown": "Hà Nội",
+        "major": "Công Nghệ thông tin"
+      },
+      {
+        "id": "6179",
+        "msv": 1889592,
+        "name": "Nguyễn Đăng",
+        "email": "azusachan309@gmail.com",
+        "sdt": "093728478",
+        "dob": "2004-07-29T17:00:00.000Z",
+        "sex": "Nữ",
+        "hometown": "Hà nội",
+        "major": "Kinh tế"
+      }
+    ]
+  }
