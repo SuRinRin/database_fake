@@ -7,6 +7,9 @@
     }
   ],
   "message": [
-    
+      {
+        "id": 1,
+        "content": "Hello bé"
+      }
   ]
 }
